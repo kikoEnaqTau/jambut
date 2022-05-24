@@ -33,10 +33,10 @@ function pickRandom(list) {
 }
 
 
-global.DeveloperMode = 'false' //Buat Mode True False Moderator
-global.linkGC = ['https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'] // ganti jadi group lu
-global.owner = ['6288229683561', '6287708773367' ,'6285600204672','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
-global.mods = ['6288229683561'] // Want some help?
+global.DeveloperMode = 'true' //Buat Mode True False Moderator
+global.linkGC = ['https://chat.whatsapp.com/LAHu9shQYSJ66RSiNhuCV6'] // ganti jadi group lu
+global.owner = ['6283171382342', '6289523573658'] // Put your number here
+global.mods = ['6283171382342'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -73,19 +73,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 Lord вσт\nwa.me/6287708773367\n\n\n𝙱𝚢 Kurumi あ\n\n\nFollow IG: @lord_ammar_quoteser_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
-global.author = '۰ ⸼'
+global.packname = '0831 7138 2342'
+global.author = 'Save Yah Kakk:)'
 
 // silakan di ganti klo mau
-global.botwm = `🤖 Lord вσт`//UBAH JADI NAMAMU
-global.wm = `꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Kurumi - sama˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷`
+global.botwm = 'Sumanto' //UBAH JADI NAMAMU
+global.wm = 'Sumanto Cans'
 global.botdate = `❏ ${wktu}\n❏ ${week} ${date}`
-global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
+global.imagebot = `https://cdns.klimg.com/dream.co.id/resized/300x//real/2021/05/21/700619/satu-kompleks-ceweknya-cantik-cantik.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
-global.thumb1 = 'https://i.ibb.co/N7rx3zh/20220325-213250.png'
-global.thumb2 = 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg'
-global.thumb3 = 'https://telegra.ph/file/88edbb01051b397574def.jpg'
-global.thumb4 = 'https://telegra.ph/file/7957630a57078c5ec0400.jpg'
+global.thumb1 = 'https://i.pinimg.com/736x/92/2e/db/922edb33ac5358669b8ce4b16bbbf255.jpg'
+global.thumb2 = 'https://cdn.kibrispdr.org/data/gambar-cewek-cantik-nampar-0.jpg'
+global.thumb3 = 'https://i.pinimg.com/474x/87/a6/a1/87a6a130746e08669db8e4463ccf1898.jpg'
+global.thumb4 = 'https://i.pinimg.com/564x/57/4b/78/574b78e176ec1a158c63a22ac1e0b387.jpg'
 global.logoowner = fs.readFileSync('./src/owner.jpg')
 global.wait = '```[ ! ] wait...```'
 global.rpg = '[ ! ] Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
@@ -96,7 +96,7 @@ global.CanvasAPI = '';
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 20 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
